@@ -3,4 +3,4 @@
 
 _______________________________________________________________
 In this repository you can find useful codes for data analysis in Python. The list of codes includes: 
-* **1 Обработка данных**
+* **1 Обработка данных** (1 Data processing)
